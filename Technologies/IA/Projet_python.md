@@ -25,7 +25,7 @@ Objectif : Utiliser le dataset des joueurs professionnels de CS:GO pour analyser
 ### Visualisation des données
 
 - Utilisez matplotlib ou seaborn pour créer des graphiques illustrant les performances individuelles et par équipe, comme des histogrammes, des boxplots, et des scatter plots.
-- Illustrer la progression des joueurs avec des graphiques linéaires ou des graphiques à barres empilées pour montrer l'évolution des performances au fil du temps.
+- Illustrer la progression des joueurs avec des graphiques linéaires ou des graphiques à barres empilées.
 - Créez des graphiques de comparaison pour mettre en évidence les différences de performances entre les joueurs et les équipes.
 
 ### Livrables
